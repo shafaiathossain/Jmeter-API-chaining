@@ -1,2 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1750095650771,978,Login User,200,OK,Dmoneychaining 1-1,text,true,,611,314,1,1,http://dmoney.roadtocareer.net/user/login,974,0,935
